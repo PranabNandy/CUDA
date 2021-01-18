@@ -2,7 +2,7 @@
 <h3>It contains all the programs and notes of my CUDA C/C++ programming </h3>
 
 
-<h1>
+<h4>
   Link of my Certificate 
   
   
@@ -10,4 +10,4 @@
   
   
   
-  </h1>
+  </h4>
