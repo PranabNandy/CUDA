@@ -1,5 +1,5 @@
 # CUDA
-<h3>It contains all the programs and notes of my CUDA C/C++ programming </h3>
+### It contains all the programs and notes of my CUDA C/C++ programming 
 
 
 <h4>
